@@ -71,7 +71,6 @@ Tests cover the portable `mpu6050` driver (mocked I²C) and the `imu_filter` mat
 - `lib/i2c_stm32/` — STM32 HAL adapter implementing the driver's bus interface
 - `test/` — Unity unit tests, run on host via `pio test -e native`
 - `docs/` — hardware notes and design docs
-- `.claude/plans/` — implementation plans (agent-readable)
 
 ## License
 
