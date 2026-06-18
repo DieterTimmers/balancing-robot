@@ -1,0 +1,15 @@
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+.venv/
+.trash/
+.DS_Store
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+build/
+
+AGENTS.md
